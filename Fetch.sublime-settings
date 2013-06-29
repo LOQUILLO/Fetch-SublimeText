@@ -1,7 +1,6 @@
 {
   "files":
 	{
-		"Normalize.css": "https://github.com/necolas/normalize.css/raw/master/normalize.css",
 		"backbone": "http://documentcloud.github.com/backbone/backbone.js",
 		"backbone org": "http://backbonejs.org/backbone-min.js",
 		"backbone.min": "http://documentcloud.github.com/backbone/backbone-min.js",
@@ -42,7 +41,7 @@
 		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
 		"modernizr.js dev": "http://www.modernizr.com/downloads/modernizr-2.5.3.js",
 		"nested.js": "https://github.com/suprb/Nested/blob/master/jquery.nested.js",
-		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"normalize": "https://github.com/necolas/normalize.css/blob/master/normalize.css",
 		"performermin": "http://performerjs.org/download/performer-min.js",
 		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
 		"prototype": "https://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js",
