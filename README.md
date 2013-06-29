@@ -1,4 +1,4 @@
-Fetch-Sublimetext2
+Fetch-SublimeText2
 ==================
 
 This is a compilation of some "Fetch" that are here and I have updated and added other repositories.
