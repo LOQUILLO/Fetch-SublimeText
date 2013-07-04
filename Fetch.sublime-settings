@@ -47,8 +47,6 @@
 		"jQuery-extra-selectors": "https://raw.github.com/keithclark/JQuery-Extended-Selectors/master/jquery-extra-selectors.js",
 		"jQuery-flexslider": "https://raw.github.com/mbmufffin/FlexSlider/master/jquery.flexslider-min.js",
 		"jQuery-mediaelement": "https://raw.github.com/johndyer/mediaelement/master/build/mediaelement-and-player.js",
-		"jQuery-Migrate-plugin development": "http://code.jquery.com/jquery-migrate-1.2.1.js",
-		"jQuery-Migrate-plugin production": "http://code.jquery.com/jquery-migrate-1.2.1.min.js
 		"jQuery-minLineHeight": "https://raw.github.com/jimjeffers/jQuery-minLineHeight/master/jquery.min-line-height.js",
 		"jQuery-mobile-stable.css development": "http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.css",
 		"jQuery-mobile-stable.css production": "http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css",
