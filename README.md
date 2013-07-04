@@ -6,6 +6,7 @@ This I created for those using Nettuts + Fetch and can update Fetch.sublime-sett
 I hope you all have suggestions.
 
 Added Style-Guide-Boilerplate: a starting point for crafting web style guides.
+
 Added Effeckt.css: UI-Less & Performant Transitions & Animations.
 
 Updated jQuery to the last version.
