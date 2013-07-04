@@ -9,4 +9,6 @@ Added Style-Guide-Boilerplate: a starting point for crafting web style guides.
 
 Added Effeckt.css: UI-Less & Performant Transitions & Animations.
 
+Added HTML5 Bones: The template that goes back to basics.
+
 Updated jQuery to the last version.
