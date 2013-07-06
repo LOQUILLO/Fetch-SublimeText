@@ -11,4 +11,6 @@ Added Effeckt.css: UI-Less & Performant Transitions & Animations.
 
 Added HTML5 Bones: The template that goes back to basics.
 
+Added more repos.
+
 Updated jQuery to the last version.
