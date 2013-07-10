@@ -13,4 +13,6 @@ Added HTML5 Bones: The template that goes back to basics.
 
 Added more repos.
 
+Fixed small errors.
+
 Updated jQuery to the last version.
