@@ -1,7 +1,6 @@
 {
 	"files":
 	{
-		"Compass-examples": "https://github.com/niclupien/compass-examples/zipball/master",
 		"FitText": "https://raw.github.com/davatron5000/FitText.js/master/jquery.fittext.js",
 		"FitVids": "https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js",
 		"QUnit.css v1.12.0": "http://code.jquery.com/qunit/qunit-1.12.0.css",
@@ -157,6 +156,7 @@
 		"Centurion": "https://github.com/jhough10/Centurion/archive/master.zip",
 		"Cocos2d-HTML5": "https://github.com/cocos2d/cocos2d-html5/archive/develop.zip",
 		"CodeIgniter": "http://codeigniter.com/download.php",
+		"Compass-examples": "https://github.com/niclupien/compass-examples/zipball/master",
 		"Compass-Wordpress": "https://github.com/pengwynn/compass-wordpress/zipball/master",
 		"Compass-ceaser-easing": "https://github.com/MoOx/compass-ceaser-easing/zipball/master",
 		"CssWizardry-Grids": "https://github.com/csswizardry/csswizardry-grids/archive/master.zip",
