@@ -6,6 +6,7 @@ This I created for those using Nettuts + Fetch and can update Fetch.sublime-sett
 I hope you all have suggestions.
 
 Added and updated new repos.
+Added PHP phar files, checkit.
 
 Fixed small errors.
 
