@@ -7,7 +7,7 @@ I hope you all have suggestions.
 
 Added and updated new repos.
 
-Added PHP phar files (Composer, Pear, Phing, CS-Fixer, Mess Detector, Unit) checkit.
+Added PHP phar files (Composer, Pear, Phing, CS-Fixer, Mess Detector, Unit) checkit out.
 
 Added Symfony.
 
