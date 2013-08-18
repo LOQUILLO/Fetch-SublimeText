@@ -15,4 +15,6 @@ Added Symfony.
 
 Fixed small errors.
 
+Fixed an error with Nettuts, this don't support characters such as "ë".
+
 
