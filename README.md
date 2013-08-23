@@ -1,9 +1,12 @@
 Fetch-SublimeText2
 ==================
 
-This is a compilation of some "Fetch" that are here and I have updated and added other repositories.
-This I created for those using Nettuts + Fetch and can update Fetch.sublime-settings.
-I hope you all have suggestions.
+For those using Nettuts + Fetch I created to make you easier likely needs you have to develop your projects.
+Every so often I'll be updating, adding new repositories that should be very useful in your developments.
+I hope you help me confirm if the files are not active in their respective repositories so I can update them.
+I also accept suggestions to add some other repositories.
+
+Paste the file Fetch.sublime-settings in Sublime Text 2 \ Packages \ User
 
 Added and updated new repos.
 
@@ -13,8 +16,6 @@ Added PHP phar files (Composer, Pear, Phing, CS-Fixer, Mess Detector, Unit) chec
 
 Added Symfony.
 
-Fixed small errors.
-
-Fixed an error with Nettuts, this don't support characters such as "ë".
+Fixed an error with Nettuts, this wasn't supporting characters such as "ë".
 
 
