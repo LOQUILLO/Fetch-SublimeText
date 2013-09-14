@@ -11,7 +11,7 @@ I also accept suggestions to add some other repositories.
 
 Paste the file Fetch.sublime-settings in Sublime Text 2 \ Packages \ User
 
-Added and updated new repos.
+Added and updated with new and more usefull repos.
 
 Deleted obsoletes repos.
 
