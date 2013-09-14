@@ -15,6 +15,8 @@ Added and updated with new and more usefull repos.
 
 Deleted obsoletes repos.
 
+Added color codes for HTML and CSS.
+
 Added PHP phar files (Composer, Pear, Phing, CS-Fixer, Mess Detector, Unit) checkit out.
 
 Added Symfony.
