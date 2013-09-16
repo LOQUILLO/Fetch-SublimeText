@@ -101,6 +101,7 @@
 		"selectivizr-development": "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js",
 		"selectivizr-production": "https://raw.github.com/malarkey/320andup/master/js/selectivizr-min.js",
 		"swipe.min.js": "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js",
+		"three.js development": "https://raw.github.com/mrdoob/three.js/master/build/three.js",
 		"three.js production": "http://threejs.org/build/three.min.js",
 		"tinycarousel": "http://baijs.nl/tinycarousel/js/jquery.tinycarousel.min.js",
 		"tinynav.min.js": "https://raw.github.com/viljamis/TinyNav.js/master/tinynav.min.js",
