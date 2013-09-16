@@ -12,15 +12,13 @@ I also accept suggestions to add some other repositories.
 Paste the file Fetch.sublime-settings in Sublime Text 2 \ Packages \ User
 
 Added and updated with new and more usefull repos.
-
-Deleted obsoletes repos.
-
 Added color codes for HTML and CSS.
-
 Added PHP phar files (Composer, Pear, Phing, CS-Fixer, Mess Detector, Unit) checkit out.
 
 Added Symfony.
 
 Fixed an error with Nettuts, this wasn't supporting characters such as "ë".
+
+Deleted obsoletes repos.
 
 
