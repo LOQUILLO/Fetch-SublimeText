@@ -20,3 +20,7 @@ Fixed an error with Nettuts, this wasn't supporting characters such as "ë".
 Added GoogleMaps API.
 Added Cordova.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LOQUILLO/fetch-sublimetext2/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
