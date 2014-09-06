@@ -9,7 +9,7 @@ I hope you help me confirm if the files are not active in their respective repos
 
 I also accept suggestions to add some other repositories.
 
-Paste the file Fetch.sublime-settings in Sublime Text 2 \ Packages \ User
+Paste the file Fetch.sublime-settings into \ Packages \ User \
 
 Updated with new and more usefull repos.
 
