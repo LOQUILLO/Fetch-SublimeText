@@ -20,3 +20,5 @@ Fixed an error with Nettuts, this wasn't supporting characters such as "ë".
 Added GoogleMaps API.
 Added Cordova.
 
+Added repos for Parallax, icons (icons social and others).
+Updated links.
