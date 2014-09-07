@@ -22,3 +22,5 @@ Added Cordova.
 
 Added repos for Parallax, icons (icons social and others).
 Updated links.
+
+Added GoogleMaps, Slider revolution, Image Resizer.
