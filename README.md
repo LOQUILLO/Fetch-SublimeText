@@ -17,5 +17,5 @@ Added color codes for HTML and CSS, Symfony, PHP phar files (Composer, Pear, Phi
 
 Fixed an error with Nettuts, this wasn't supporting characters such as "ë".
 
-Added GoogleMaps API, Cordova, Parallax, icons (icons social and others), Image resizer, Slider Revolution, slides.
+Added GoogleMaps API, Google Web Starter Kit, Cordova, Parallax, icons (icons social and others), Image resizer, Slider Revolution, slides.
 Updated links.
