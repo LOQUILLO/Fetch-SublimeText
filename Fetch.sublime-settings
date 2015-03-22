@@ -1,16 +1,8 @@
 {
 	"files":
 	{
-		"Composer.phar": "https://getcomposer.org/composer.phar",
 		"FitText": "https://raw.github.com/davatron5000/FitText.js/master/jquery.fittext.js",
 		"FitVids": "https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js",
-		"PHP Mess Detector.phar": "http://static.phpmd.org/php/2.1.0/phpmd.phar",
-		"PHP-CS-Fixer.phar": "http://cs.sensiolabs.org/get/php-cs-fixer.phar",
-		"PHPCompatInfo.phar": "http://bartlett.laurent-laville.org/get/phpcompatinfo.phar",
-		"PHPUnit.phar": "http://pear.phpunit.de/get/phpunit.phar",
-		"Pear.phar": "http://pear.php.net/go-pear.phar",
-		"Phing.phar": "http://www.phing.info/get/phing-latest.phar",
-		"Pyrus.phar": "http://pear2.php.net/pyrus.phar",
 		"QUnit.css v1.17.1": "http://code.jquery.com/qunit/qunit-1.17.1.css",
 		"QUnit.js v1.17.1": "http://code.jquery.com/qunit/qunit-1.17.1.js",
 		"Sass-Css3-Mixins": "https://raw.github.com/matthieua/Sass-Css3-Mixins/master/css3-mixins.scss",
