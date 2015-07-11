@@ -10,3 +10,5 @@ Paste the file Fetch.sublime-settings into \ Packages \ User \ of your user file
 Updated with new and more usefull repos. Added color codes for HTML and CSS, Symfony.
 
 Added GoogleMaps API, Google Web Starter Kit, Cordova, Parallax, icons (icons social and others), Image resizer, Slider Revolution, slides.
+
+Added Icon Fonts for use it with Icon Fonts (https://github.com/idleberg/Icon-Fonts-Sublime-Text).
