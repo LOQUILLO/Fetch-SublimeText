@@ -1,4 +1,4 @@
-Fetch-SublimeText2
+Fetch-SublimeText
 ==================
 
 For who are using Nettuts+ Fetch (https://github.com/weslly/Nettuts-Fetch) I created this Fetch.sublime-settings (which is a compilation of some that exist here, but they are obsolete or outdated repositories) to make you easier likely needs you have to develop your projects.
