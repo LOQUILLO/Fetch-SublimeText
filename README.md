@@ -12,4 +12,4 @@ Updated with new and more usefull repos. Added color codes for HTML and CSS, Sym
 Added GoogleMaps API, Google Web Starter Kit, Cordova, Parallax, icons (icons social and others), Image resizer, Slider Revolution, slides.
 
 Added iconpacks for use it with Icon Fonts (https://github.com/idleberg/Icon-Fonts-Sublime-Text).
-Added Dist versions for: HTML5-Boilerplate, Twitter Bootstrap, Foundation.
+Added frameworks such as: HTML5-Boilerplate, Twitter Bootstrap, Foundation.
