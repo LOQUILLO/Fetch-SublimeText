@@ -24,7 +24,7 @@
 		"cssParentSelector": "https://raw.github.com/Idered/cssParentSelector/master/jQuery.cssParentSelector.js",
 		"cycle2-development": "http://malsup.github.io/jquery.cycle2.js",
 		"cycle2-production": "http://malsup.github.io/min/jquery.cycle2.min.js",
-		"d3js": "http://d3js.org/d3.v3.min.js",
+		"D3.js": "https://github.com/d3/d3/releases/download/v4.2.6/d3.zip",
 		"dynamic-carousel": "https://raw.github.com/Wilto/Dynamic-Carousel/master/plugin.js",
 		"fixie.js": "https://raw.github.com/rthprog/fixie/master/fixie_min.js",
 		"goldentype": "https://github.com/maxbeatty/goldentype/zipball/master",
